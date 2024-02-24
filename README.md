@@ -2,7 +2,7 @@
 Me chamo Samuel Patricio, sou professor formado em Análise e Desenvolvimento de Sistemas e moderador no Servidor Oficial de Tower of Fantasy (*não que seja muita coisa, mas já é alguma coisa*), mas um dia ainda atinjo a meta de trabalhar como desenvolvedor back-end.
 
 ## Aprendendo e aprimorando
-É aquila coisa né? Não tem como a gente saber de tudo, mas é possível expandir o conhecimento que já possuimos.
+É aquela coisa né? Não tem como a gente saber de tudo, mas é possível expandir o conhecimento que já possuimos.
 <div style="display: inline_block"><br>
   <img align="center" alt="Lala-Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lala-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
