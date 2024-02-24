@@ -38,7 +38,7 @@ Eu não sou muito de interagir ou fazer postagens em redes sociais, mas com cert
 <!-- <img src="https://discordapp.com/api/guilds/932906923236401182/widget.png?style=banner2" alt="Discord Banner 1"/> -->
 
 ## Patrocínio 
-Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank'>Portufólio</a> do <a href='https://github.com/gustavoalmeidapaula' target='_blank'>Gustavo Almeida Paula</a>, aluno do 2º ano de Desenvolvimento de Sistemas da E.E.E.P Deputado Roberto Mesquita e Designer Gráfico nas horas vagas.
+Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank'>Portifólio</a> do <a href='https://github.com/gustavoalmeidapaula' target='_blank'>Gustavo Almeida Paula</a>, aluno do 2º ano de Desenvolvimento de Sistemas da E.E.E.P Deputado Roberto Mesquita e Designer Gráfico nas horas vagas.
 
 ## Status
 <div>
