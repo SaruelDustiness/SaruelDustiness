@@ -47,3 +47,5 @@ Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaruelDustiness&layout=compact&langs_count=7&theme=vue-dark"/>
   </a>
 </div>
+
+![Snake animation](https://github.com/SaruelDustiness/SaruelDustiness/blob/output/github-contribution-grid-snake.svg)
