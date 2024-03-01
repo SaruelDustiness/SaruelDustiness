@@ -48,4 +48,4 @@ Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank
   </a>
 </div>
 
-![Snake animation](https://github.com/SaruelDustiness/SaruelDustiness/blob/output/cobrita_maluca.gif)
+![Snake animation](https://github.com/SaruelDustiness/SaruelDustiness/blob/output/cobrita_maluca.svg)
