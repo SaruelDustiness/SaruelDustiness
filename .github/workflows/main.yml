@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/cobrita_maluca.svg?palette=github-dark&color_snake=orange&color_dots=#4c0000,#7f0000,#990000,#b20000,#e50000
+            dist/cobrita_maluca.svg?palette=github-dark&color_snake=orange&color_dots=#1c2e4f,#214377,#2159a2,#1b70d0,#0088ff
 
           
           
