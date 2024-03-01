@@ -1,7 +1,7 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # execute every 24 hours
     - cron: "0 */24 * * *"
   workflow_dispatch:
 
@@ -28,6 +28,7 @@ jobs:
           #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
           #                 Exactly 5 colors are expected.
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#4c0000,#7f0000,#990000,#b20000,#e50000
 
@@ -36,7 +37,7 @@ jobs:
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
           target_branch: output
           build_dir: dist
