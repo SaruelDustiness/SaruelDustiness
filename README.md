@@ -43,8 +43,8 @@ Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank
 ## Status
 <div>
   <a href="https://github.com/SaruelDustiness/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SaruelDustiness&show_icons=true&theme=ambient_gradient&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaruelDustiness&layout=compact&langs_count=7&theme=ambient_gradient"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SaruelDustiness&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaruelDustiness&layout=compact&langs_count=7&theme=algolia"/>
   </a>
 </div>
 
