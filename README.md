@@ -3,7 +3,7 @@ Me chamo Samuel Patricio, sou professor formado em Análise e Desenvolvimento de
 
 ## Aprendendo e aprimorando
 É aquela coisa né? Não tem como a gente saber de tudo, mas é possível expandir o conhecimento que já possuimos.
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Lala-Java" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Lala-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lala-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -41,11 +41,12 @@ Eu não sou muito de interagir ou fazer postagens em redes sociais, mas com cert
 Se liga aqui no <a href='https://gustavoalmeida.my.canva.site/ga' target='_blank'>Portifólio</a> do <a href='https://github.com/gustavoalmeidapaula' target='_blank'>Gustavo Almeida Paula</a>, aluno do 2º ano de Desenvolvimento de Sistemas da E.E.E.P Deputado Roberto Mesquita e Designer Gráfico nas horas vagas.
 
 ## Status
-<div>
+<div align="center" style="display:flex; justify-content: space-evenly;">
   <a href="https://github.com/SaruelDustiness/">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SaruelDustiness&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaruelDustiness&layout=compact&langs_count=7&theme=algolia"/>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=SaruelDustiness&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&locale=pt-br&border_radius=10&rank_icon=github"/>
+    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaruelDustiness&layout=compact&langs_count=7&theme=algolia&locale=pt-br&border_radius=10&"/>
   </a>
-</div>
 
-![Snake animation](https://github.com/SaruelDustiness/SaruelDustiness/blob/output/cobrita_maluca.svg)
+![Snake animation](https://github.com/SaruelDustiness/SaruelDustiness/blob/output/python_so_que_azul_e_maluco.svg)
+<!--na vdd é amarelo :c-->
+</div>
